@@ -1,0 +1,9 @@
+[submodule "rtc-native"]
+	path = rtc-native
+	url = git@github.com:eveinnovation/rtc-native.git
+[submodule "rtc-jni"]
+	path = rtc-jni
+	url = git@github.com:eveinnovation/rtc-jni.git
+[submodule "streaming-agent"]
+	path = streaming-agent
+	url = git@github.com:eveinnovation/streaming-agent.git
